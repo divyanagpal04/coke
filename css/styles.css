@@ -1,0 +1,90 @@
+body{
+  background-image: linear-gradient(black,red,black);
+font-family: 'Montserrat-bolder', sans-serif;
+}
+
+h1{
+  padding-top: 5%;
+  margin: 0 20% 0 6%;
+  font-size: 5rem;
+  line-height: 1;
+  color: white;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+
+.brand{
+  font-weight: bolder;
+  font-size: 2rem;
+  color: white;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+
+.brand:hover{
+  color: red;
+}
+
+.nav-link{
+  color: white;
+}
+
+.nav-link:hover{
+  color: red;
+}
+
+
+
+.left-p{
+
+  margin: 5%;
+  margin-left: 6.5%;
+  margin-bottom: 0;
+  font-size:1.5rem;
+}
+
+
+.right{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-fluid{
+  padding: 1% 10%;
+}
+
+
+
+.navbar-nav{
+  margin-left: auto;
+}
+
+.coke-image{
+  width:80%;
+}
+
+.btn{
+  margin: 7% 6.5%;
+
+}
+
+.footer-a{
+  padding:0 2%;
+  text-decoration: none;
+  color: white;
+}
+
+.footer-a:hover{
+  color: red;
+}
+
+.footer{
+  /*  */
+  color: white;
+  text-align: center;
+}
+
+.footer p{
+  margin-top: 1%;
+}
